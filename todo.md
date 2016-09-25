@@ -7,3 +7,7 @@ https://blog.codeship.com/monitoring-docker-containers-with-elasticsearch-and-ca
 https://news.ycombinator.com/item?id=7909622
 
 http://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi/
+
+https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/
+
+https://denibertovic.com/posts/handling-permissions-with-docker-volumes/
