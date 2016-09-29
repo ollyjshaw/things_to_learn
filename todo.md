@@ -13,3 +13,5 @@ https://www.ctl.io/developers/blog/post/dockerfile-entrypoint-vs-cmd/
 https://denibertovic.com/posts/handling-permissions-with-docker-volumes/
 
 http://pchiusano.github.io/2016-09-15/static-vs-dynamic.html
+
+http://blog.kubernetes.io/2016/09/how-we-made-kubernetes-easy-to-install.html?m=1
