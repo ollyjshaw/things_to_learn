@@ -17,3 +17,5 @@ http://pchiusano.github.io/2016-09-15/static-vs-dynamic.html
 http://blog.kubernetes.io/2016/09/how-we-made-kubernetes-easy-to-install.html?m=1
 
 http://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi/
+
+https://medium.com/contino-io/docker-kata-006-c92ba5ec7480#.rw3b4qah7
