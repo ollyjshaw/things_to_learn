@@ -19,3 +19,5 @@ http://blog.kubernetes.io/2016/09/how-we-made-kubernetes-easy-to-install.html?m=
 http://blog.alexellis.io/getting-started-with-docker-on-raspberry-pi/
 
 https://medium.com/contino-io/docker-kata-006-c92ba5ec7480#.rw3b4qah7
+
+https://blog.codeship.com/monitoring-docker-containers-with-elasticsearch-and-cadvisor/
