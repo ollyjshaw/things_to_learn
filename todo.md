@@ -1,3 +1,5 @@
+http://blog.hellosign.com/10-mistakes-to-avoid-when-building-your-api/
+
 https://vimeo.com/181409251
 
 http://hecodes.com/2016/10/better-testing-microservices-using-consumer-driven-contracts-node-js/
