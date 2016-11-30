@@ -1,3 +1,5 @@
+https://cloudplatform.googleblog.com/2016/10/introducing-a-new-era-of-customer-support-Google-Customer-Reliability-Engineering.html
+
 https://gist.github.com/jdegoes/97459c0045f373f4eaf126998d8f65dc
 
 http://blog.hellosign.com/10-mistakes-to-avoid-when-building-your-api/
