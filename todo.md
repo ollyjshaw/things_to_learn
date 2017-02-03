@@ -1,5 +1,7 @@
 http://exercism.io/how-it-works
 
+https://www.youtube.com/watch?v=TS1lpKBMkgg
+
 https://cloudplatform.googleblog.com/2016/10/introducing-a-new-era-of-customer-support-Google-Customer-Reliability-Engineering.html
 
 https://gist.github.com/jdegoes/97459c0045f373f4eaf126998d8f65dc
