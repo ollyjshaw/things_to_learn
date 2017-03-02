@@ -1,3 +1,7 @@
+http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
+
+https://github.com/npryce/adr-tools
+
 https://dzone.com/articles/the-basics-of-tdd
 
 http://exercism.io/how-it-works
