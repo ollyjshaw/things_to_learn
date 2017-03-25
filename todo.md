@@ -1,3 +1,5 @@
+https://hackernoon.com/your-team-doesnt-work-for-you-you-work-for-them-ddc2227a8248#.fwb97satc
+
 http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions
 
 https://github.com/npryce/adr-tools
