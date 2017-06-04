@@ -1,3 +1,5 @@
+https://cloud.google.com/community/tutorials/nginx-reverse-proxy-docker
+
 https://martinfowler.com/articles/enterpriseREST.html
 
 https://hackernoon.com/your-team-doesnt-work-for-you-you-work-for-them-ddc2227a8248#.fwb97satc
