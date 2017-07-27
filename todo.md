@@ -1,3 +1,5 @@
+http://jsuereth.com/intro-to-fp/
+
 https://cloud.google.com/community/tutorials/nginx-reverse-proxy-docker
 
 https://martinfowler.com/articles/enterpriseREST.html
