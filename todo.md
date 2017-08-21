@@ -1,3 +1,5 @@
+https://stripe.com/blog/api-versioning
+
 https://medium.com/@rowillia/tautology-tests-7dabd81ade30
 
 https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c
