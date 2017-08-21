@@ -1,3 +1,7 @@
+https://medium.com/@rowillia/tautology-tests-7dabd81ade30
+
+https://medium.com/@kelseyhightower/12-fractured-apps-1080c73d481c
+
 http://jsuereth.com/intro-to-fp/
 
 https://cloud.google.com/community/tutorials/nginx-reverse-proxy-docker
