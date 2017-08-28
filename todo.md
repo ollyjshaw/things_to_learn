@@ -1,3 +1,5 @@
+https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
+
 https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test
 
 https://stripe.com/blog/api-versioning
