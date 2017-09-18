@@ -1,3 +1,5 @@
+https://blog.jetbrains.com/idea/2017/09/code-smells-too-many-problems/
+
 https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f
 
 https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test
