@@ -1,1 +1,5 @@
-securing ECS http://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
+securing ECS 
+http://docs.aws.amazon.com/AmazonECS/latest/developerguide/task-iam-roles.html
+
+Securing API via Lambda
+https://aws.amazon.com/blogs/compute/secure-api-access-with-amazon-cognito-federated-identities-amazon-cognito-user-pools-and-amazon-api-gateway/
