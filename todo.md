@@ -1,3 +1,5 @@
+https://hackernoon.com/why-isnt-agile-working-d7127af1c552
+
 https://blog.alexellis.io/you-need-to-know-kubernetes-and-swarm/
 
 https://blog.jetbrains.com/idea/2017/09/code-smells-too-many-problems/
